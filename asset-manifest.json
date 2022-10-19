@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hiroki-yoshimoto.github.io/csb-1gyfl9/static/css/main.0e68b0f6.chunk.css",
+    "main.js": "https://hiroki-yoshimoto.github.io/csb-1gyfl9/static/js/main.f357e0c6.chunk.js",
+    "main.js.map": "https://hiroki-yoshimoto.github.io/csb-1gyfl9/static/js/main.f357e0c6.chunk.js.map",
+    "runtime-main.js": "https://hiroki-yoshimoto.github.io/csb-1gyfl9/static/js/runtime-main.ab009b2f.js",
+    "runtime-main.js.map": "https://hiroki-yoshimoto.github.io/csb-1gyfl9/static/js/runtime-main.ab009b2f.js.map",
+    "static/js/2.b1e8bd65.chunk.js": "https://hiroki-yoshimoto.github.io/csb-1gyfl9/static/js/2.b1e8bd65.chunk.js",
+    "static/js/2.b1e8bd65.chunk.js.map": "https://hiroki-yoshimoto.github.io/csb-1gyfl9/static/js/2.b1e8bd65.chunk.js.map",
+    "index.html": "https://hiroki-yoshimoto.github.io/csb-1gyfl9/index.html",
+    "static/css/main.0e68b0f6.chunk.css.map": "https://hiroki-yoshimoto.github.io/csb-1gyfl9/static/css/main.0e68b0f6.chunk.css.map",
+    "static/js/2.b1e8bd65.chunk.js.LICENSE.txt": "https://hiroki-yoshimoto.github.io/csb-1gyfl9/static/js/2.b1e8bd65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab009b2f.js",
+    "static/js/2.b1e8bd65.chunk.js",
+    "static/css/main.0e68b0f6.chunk.css",
+    "static/js/main.f357e0c6.chunk.js"
+  ]
+}
